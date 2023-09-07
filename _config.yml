@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Niloufar's Homepage'"
+title                    : "Niloufar's Homepage"
 title_separator          : "-"
 name                     : &name "Niloufar Faridani"
 description              : &description "personal description"
