@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Unsupervised Representations Improve Supervised Learning in Speech Emotion Recognition"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: 'This study proposes an innovative approach that integrates self-supervised feature extraction with supervised classification for emotion recognition from small audio segments.'
+date: 2023-24-9
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Niloufar Faridani, Amirali Soltani Tehrani, Ramin Toosi. (2023). &quot;Unsupervised Representations Improve Supervised Learning in Speech Emotion Recognition.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This study proposes an innovative approach that integrates self-supervised feature extraction with supervised classification for emotion recognition from small audio segments.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Niloufar Faridani, Amirali Soltani Tehrani, Ramin Toosi. (2023). "Unsupervised Representations Improve Supervised Learning in Speech Emotion Recognition." <i>Journal 1</i>. 1(1).
