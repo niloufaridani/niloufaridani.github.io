@@ -12,4 +12,4 @@ This study proposes an innovative approach that integrates self-supervised featu
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Niloufar Faridani, Amirali Soltani Tehrani, Ramin Toosi. (2023). "Unsupervised Representations Improve Supervised Learning in Speech Emotion Recognition." <i>Journal 1</i>. 1(1).
+Recommended citation: Niloufar Faridani, Amirali Soltani Tehrani, Ramin Toosi. (2023). "Unsupervised Representations Improve Supervised Learning in Speech Emotion Recognition." <i>Journal 1</i>. 1(1). 
