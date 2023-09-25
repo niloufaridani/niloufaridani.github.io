@@ -19,7 +19,7 @@ author_profile: true
 
 
 
-| B.Sc.   | University of Tehran | 2019 - 2023 |
+| B.Sc.   | University of Tehran | 2019 - Now |
 
 <h3>
 Telecommunication Engineering
