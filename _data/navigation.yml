@@ -10,7 +10,7 @@ main:
   #   url: /portfolio/
         
    - title: "Education"
-     url: /education.md/
+     url: /education/
   
   - title: "CV"
     url: /files/Niloufar Faridani_CV.pdf
