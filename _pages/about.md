@@ -8,6 +8,35 @@ redirect_from:
   - /about.html
 ---
 
+<audio src="resources/about.mp3" id="audio"></audio>
+<button class="play-pause-button paused" onclick="play()" id="play">
+    <i>P</i>
+    <i>l</i>
+    <i>a</i>
+    <i>y</i>
+    <i>use</i>
+</button>
+<script>
+    function play() {
+        var audio = document.getElementById('audio');
+        var button = document.getElementById("play");
+        if(button.classList.contains('playing')) {
+            audio.pause();
+            button.classList.remove('paused', 'playing');
+            button.classList.add('paused');
+        } else {
+            if(button.classList.contains('paused')) {
+                audio.play();
+                button.classList.add('playing');
+            }
+        }
+        if(!button.classList.contains('paused')) {
+                    button.classList.add('paused');
+                }
+}
+</script>
+
+
 I am Niloufar Faridani. I have a B.Sc. in Electrical Engineering (communication division) from the University of Tehran in Tehran, Iran, and I'm a highly motivated electrical engineer. My research interests span a variety of  technologies, including Biomedical Engineering, Signal Processing, Deep Learning, Image and Video Analysis, and Machine Learning. I am enthusiastic to keep expanding my knowledge and making contributions to the area of Electrical Engineering through my research and career pursuits. Currently, my B.Sc. thesis work focuses on predicting gaze points in motion images using deep learning.
 
 If you want to see my projects, you can check out my github page (In the leftside of this page) to find them in my repositories.
