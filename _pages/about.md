@@ -41,6 +41,38 @@ I am Niloufar Faridani. I have a B.Sc. in Electrical Engineering (communication 
 
 If you want to see my projects, you can check out my github page (On the left side of this page) to find them in my repositories.
 
+# Background
+
+<audio src="resources/background.mp3" id="audio"></audio>
+<button class="play-pause-button paused" onclick="play2()" id="play2">
+    <i>P</i>
+    <i>l</i>
+    <i>a</i>
+    <i>y</i>
+    <i>use</i>
+</button>
+<script>
+    function play2() {
+        var audio = document.getElementById('audio');
+        var button = document.getElementById("play");
+        if(button.classList.contains('playing')) {
+            audio.pause();
+            button.classList.remove('paused', 'playing');
+            button.classList.add('paused');
+        } else {
+            if(button.classList.contains('paused')) {
+                audio.play();
+                button.classList.add('playing');
+            }
+        }
+        if(!button.classList.contains('paused')) {
+                    button.classList.add('paused');
+                }
+}
+</script>
+
+I first became interested in electrical engineering in middle school after seeing a documentary about Nikola Tesla. My father, who also loved electrical engineering, further sparked my passion for the field. I decided to focus on math in high school to prepare for studying electrical engineering at the University of Tehran. While taking courses at university, I became fascinated by communications concepts and signal processing. Over the past two years, I've worked on merging deep learning and signal processing, leading to a published paper "Unsupervised Representations Improve Supervised Learning in Speech Emotion Recognition." My current B.Sc. thesis involves developing a novel model for predicting eye gaze points using deep learning. I look forward to continuing to explore applications of deep learning in electrical engineering and signal processing.
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
