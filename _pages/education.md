@@ -17,9 +17,22 @@ author_profile: true
 
 </style>
 
+| Ph.D.   | University of Delaware | 2025 - Now |
 
+<h3>
+Interdisciplinary Neuroscience Graduate Program
+</h3>
 
-| B.Sc.   | University of Tehran | 2019 - Now |
+<h3>
+GPA: 3.55/4
+</h3>
+
+<h3>Thesis: Predicting Eye Gaze Points with Deep Learning</h3>
+Perspective Effect on Shaping Social Interaction Understanding:
+I study how perspective shifts (from first-person to third-person) affect the perception of social interactions, integrating behavioral and fMRI approaches to gain a deeper understanding of our world. I'm also analyzing how stimulus inversion affects dynamic object recognition when
+recognition relies solely on motion cues using behavioral data.
+
+| B.Sc.   | University of Tehran | 2019 - 2023 |
 
 <h3>
 Telecommunication Engineering
