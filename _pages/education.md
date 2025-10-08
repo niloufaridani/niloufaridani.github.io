@@ -27,8 +27,7 @@ Interdisciplinary Neuroscience Graduate Program
 GPA: 3.55/4
 </h3>
 
-<h3>Thesis: Predicting Eye Gaze Points with Deep Learning</h3>
-Perspective Effect on Shaping Social Interaction Understanding:
+<h3>Thesis: Perspective Effect on Shaping Social Interaction Understanding</h3>
 I study how perspective shifts (from first-person to third-person) affect the perception of social interactions, integrating behavioral and fMRI approaches to gain a deeper understanding of our world. I'm also analyzing how stimulus inversion affects dynamic object recognition when
 recognition relies solely on motion cues using behavioral data.
 
