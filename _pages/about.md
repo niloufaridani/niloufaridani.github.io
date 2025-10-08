@@ -37,7 +37,9 @@ redirect_from:
 </script>
 
 
-I am Niloufar Faridani. I have a B.Sc. in Electrical Engineering (communication division) from the University of Tehran in Tehran, Iran, and I'm a highly motivated electrical engineer. My research interests span a variety of  technologies, including Biomedical Engineering, Signal Processing, Deep Learning, Image and Video Analysis, and Machine Learning. I am enthusiastic to keep expanding my knowledge and making contributions to the area of Electrical Engineering through my research and career pursuits. Currently, my B.Sc. thesis work focuses on predicting gaze points in motion images using deep learning.
+I am a graduate student in Neuroscience at the University of Delaware under the supervision of Dr. Maryam Vaziri-Pashkam. I’m fascinated by how the brain turns visual input into social understanding. To explore this, I use behavioral methods, neuroimaging (fMRI), and computational modeling to study visual perception and social cognition.
+
+As a hobby, I enjoy painting, crocheting, and watching Gordon Ramsey's cooking show with my husband. 
 
 If you want to see my projects, you can check out my github page (On the left side of this page) to find them in my repositories.
 
@@ -71,7 +73,8 @@ If you want to see my projects, you can check out my github page (On the left si
 }
 </script>
 
-I first became interested in electrical engineering in middle school after seeing a documentary about Nikola Tesla. My father, who also loved electrical engineering, further sparked my passion for the field. I decided to focus on math in high school to prepare for studying electrical engineering at the University of Tehran. While taking courses at university, I became fascinated by communications concepts and signal processing. Over the past two years, I've worked on merging deep learning and signal processing, leading to a published paper "Unsupervised Representations Improve Supervised Learning in Speech Emotion Recognition." My current B.Sc. thesis involves developing a novel model for predicting eye gaze points using deep learning. I look forward to continuing to explore applications of deep learning in electrical engineering and signal processing.
+During my last year of undergraduate studies in electrical engineering, I became interested in how computational methods could be applied to understand the human brain. Building intelligent systems was not enough; I needed to know how to decode the neural mechanisms behind perception and behavior. This motivation led me to study neuroscience in my graduate studies. Here, I can apply my prior knowledge of signal processing and deep learning to study how the brain processes motion, objects, and social interaction using behavioral and fMRI data. My ultimate goal is to build computational frameworks that fill the gap between artificial and biological intelligence.
+My background in electrical engineering and computational modeling has developed my analytical skills in complex neural data.
 
 <!-- A data-driven personal website
 ======
