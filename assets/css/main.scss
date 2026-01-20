@@ -1,3 +1,10 @@
+button[aria-label*="Play"],
+.tts,
+.speech,
+.audio-control {
+  display: none !important;
+}
+
 ---
 ---
 

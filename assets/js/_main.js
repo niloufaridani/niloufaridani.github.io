@@ -1,7 +1,7 @@
 /* ==========================================================================
    jQuery plugin settings and other scripts
    ========================================================================== */
-
+window.speechSynthesis = undefined;
 $(document).ready(function(){
    // Sticky footer
   var bumpIt = function() {
