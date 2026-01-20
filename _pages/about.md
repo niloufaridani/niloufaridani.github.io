@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<audio src="resources/about.mp3" id="audio"></audio>
+<!-- <audio src="resources/about.mp3" id="audio"></audio>
 <button class="play-pause-button paused" onclick="play()" id="play">
     <i>P</i>
     <i>l</i>
@@ -34,7 +34,7 @@ redirect_from:
                     button.classList.add('paused');
                 }
 }
-</script>
+</script> -->
 
 
 I am a graduate student in Neuroscience at the University of Delaware under the supervision of Dr. Maryam Vaziri-Pashkam. I’m fascinated by how the brain turns visual input into social understanding. To explore this, I use behavioral methods, neuroimaging (fMRI), and computational modeling to study visual perception and social cognition. As a hobby, I enjoy painting, crocheting, and watching Gordon Ramsey's cooking show with my husband. 
@@ -43,7 +43,7 @@ If you want to see my projects, you can check out my github page (On the left si
 
 # Background
 
-<audio src="resources/background.mp3" id="audio"></audio>
+<!-- <audio src="resources/background.mp3" id="audio"></audio>
 <button class="play-pause-button paused" onclick="play2()" id="play2">
     <i>P</i>
     <i>l</i>
@@ -69,7 +69,7 @@ If you want to see my projects, you can check out my github page (On the left si
                     button.classList.add('paused');
                 }
 }
-</script>
+</script> -->
 
 During my last year of undergraduate studies in electrical engineering, I became interested in how computational methods could be applied to understand the human brain. Building intelligent systems was not enough; I needed to know how to decode the neural mechanisms behind perception and behavior. This motivation led me to study neuroscience in my graduate studies. Here, I can apply my prior knowledge of signal processing and deep learning to study how the brain processes motion, objects, and social interaction using behavioral and fMRI data. My ultimate goal is to build computational frameworks that fill the gap between artificial and biological intelligence.
 
